@@ -18,6 +18,14 @@ ipython_config.py
 .markdown-viewer.pdf
 */.markdown-viewer.pdf
 
+model_checkpoints/
+*/.model_checkpoints/*
+
+models/
+*/models/*
+
+data/
+*/data/*
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
